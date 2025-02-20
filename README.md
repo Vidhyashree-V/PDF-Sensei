@@ -1,11 +1,12 @@
 📄 **PDF-Sensei: Chat with Your PDFs!** 🤖
+
 PDF-Sensei is an intelligent document assistant that leverages Gemini Pro to extract content from PDFs, enabling users to ask questions and receive accurate, context-aware responses based on the document’s information.
 
 ✨ *Features*
-✅ Upload & View PDFs – Easily upload PDFs and view them within the app.
-✅ AI-Powered Question Answering – Ask any question about the uploaded PDF and get precise answers using Gemini Pro.
-✅ Fast & Efficient Processing – Automatically extracts text and indexes it for quick retrieval.
-✅ Smooth User Experience – Interactive chat interface with real-time responses.
+- Upload & View PDFs – Easily upload PDFs and view them within the app.
+- AI-Powered Question Answering – Ask any question about the uploaded PDF and get precise answers using Gemini Pro.
+- Fast & Efficient Processing – Automatically extracts text and indexes it for quick retrieval.
+- Smooth User Experience – Interactive chat interface with real-time responses.
 
 🔹 *How It Works*
 📌 1. Upload Your PDF
