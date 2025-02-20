@@ -10,9 +10,12 @@ PDF-Sensei is an intelligent document assistant that leverages Gemini Pro to ext
 
 🔹 *How It Works*
 📌 1. Upload Your PDF
+
 Click on "Browse PDF" to select and upload a PDF from your local system.
 The app processes the document and displays a "Done" message once ready.
+
 💬 2. Ask Questions About the PDF
+
 Type your question in the chatbox on the right.
 Gemini Pro analyzes the document and generates an accurate response based on its content.
 🚀 No need to manually search through PDFs—just ask and get instant answers!
