@@ -9,6 +9,7 @@ PDF-Sensei is an intelligent document assistant that leverages Gemini Pro to ext
 - Smooth User Experience – Interactive chat interface with real-time responses.
 
 🔹 *How It Works*
+
 📌 1. Upload Your PDF
 
 Click on "Browse PDF" to select and upload a PDF from your local system.
